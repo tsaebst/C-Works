@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\admin3\source\repos\08Spitkovska\08Spitkovska\main.cpp(49,18): warning C4244: '=': conversion from 'double' to 'ArrayElem', possible loss of data
+          with
+          [
+              ArrayElem=int
+          ]
+C:\Users\admin3\source\repos\08Spitkovska\08Spitkovska\main.cpp(50,18): warning C4244: '=': conversion from 'double' to 'ArrayElem', possible loss of data
+          with
+          [
+              ArrayElem=int
+          ]
+C:\Users\admin3\source\repos\08Spitkovska\08Spitkovska\main.cpp(56,19): warning C4244: '=': conversion from 'double' to 'ArrayElem', possible loss of data
+          with
+          [
+              ArrayElem=char
+          ]
+C:\Users\admin3\source\repos\08Spitkovska\08Spitkovska\Array.h(111,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin3\source\repos\08Spitkovska\08Spitkovska\main.cpp(15,10): message : see reference to function template instantiation 'std::ostream &operator <<<7,int>(std::ostream &,const Array<7,int> &)' being compiled
+  08Spitkovska.vcxproj -> C:\Users\admin3\source\repos\08Spitkovska\x64\Debug\08Spitkovska.exe
