@@ -1,0 +1,10 @@
+﻿  fractions.cpp
+  main.cpp
+C:\Users\admin3\source\repos\Control Proj\Control Proj\main.cpp(42,20): warning C4293: '<<': shift count negative or too big, undefined behavior
+  sequence_sum.cpp
+  tribonacci.cpp
+  Generating Code...
+main.obj : error LNK2019: unresolved external symbol "unsigned __int64 __cdecl tribonacciRecursive(int)" (?tribonacciRecursive@@YA_KH@Z) referenced in function main
+    Hint on symbols that are defined and could potentially match:
+      "unsigned __int64 __cdecl tribonacciRecursive(int,__int64,__int64,__int64)" (?tribonacciRecursive@@YA_KH_J00@Z)
+C:\Users\admin3\source\repos\Control Proj\x64\Debug\Control Proj.exe : fatal error LNK1120: 1 unresolved externals

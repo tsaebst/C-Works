@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\admin3\source\repos\KPSpitkovskaV\KPSpitkovskaV\Task8.h(64,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\admin3\source\repos\KPSpitkovskaV\KPSpitkovskaV\Task8.h(62,10): message : while compiling class template member function 'void ShortString<20>::properLength(const ShortString<20> &) const'
+C:\Users\admin3\source\repos\KPSpitkovskaV\KPSpitkovskaV\Task8.h(46,21): message : see the first reference to 'ShortString<20>::properLength' in 'ShortString<20>::operator +='
+C:\Users\admin3\source\repos\KPSpitkovskaV\KPSpitkovskaV\main.cpp(155,15): message : see the first reference to 'ShortString<20>::operator +=' in 'main'
+C:\Users\admin3\source\repos\KPSpitkovskaV\KPSpitkovskaV\main.cpp(147,21): message : see reference to class template instantiation 'ShortString<20>' being compiled
+  KPSpitkovskaV.vcxproj -> C:\Users\admin3\source\repos\KPSpitkovskaV\x64\Debug\KPSpitkovskaV.exe
